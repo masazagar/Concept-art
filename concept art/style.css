@@ -1,0 +1,111 @@
+* {
+    font-family: Roboto;
+}
+
+body {
+    background-color: black;
+
+}
+
+.navbar {
+    text-align:center;
+    margin-bottom: 50px;
+}
+
+
+h1 {
+    color: mintcream;
+    font-size: 50px;
+    margin-left: 20px;
+    
+    letter-spacing: 14px;
+    text-align:center;
+    border-bottom: 2px solid mintcream;
+}
+
+.navbar span {
+    
+    font-size: 18px;
+    padding: 10px;
+    margin: 0 20px;
+    
+
+}
+
+a {
+    color: mintcream;
+    text-decoration: none;
+}
+a:hover{
+    color:springgreen;
+}
+
+
+img {
+    border: 3px solid mintcream;
+    margin: 10px;
+}
+
+
+.center{
+    margin: 0 auto;
+    width: 50%;
+        
+}
+.container {
+    display:flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+
+.footer {
+    color: mintcream;
+    font-size: 13px;
+    text-align: center;
+    border-top: 1px solid mintcream;
+    opacity: 60%;
+}
+
+
+div {
+    color:white;
+    margin: auto;
+    text-align:center;
+    width:600px;
+
+}
+
+
+
+
+.disclaimer {
+    color:white;
+    opacity:60%;
+    text-align:center;
+}
+
+
+.referencesection a{
+    color:black;
+}
+
+.referencesection span{
+    background-color:lightgreen;
+    padding: 10px;
+    margin:10px;
+    text-align:center;
+    display:flex;
+    display:inline-block;
+    width: 150px;
+    
+}
+
+
+
+   
+h2{
+    font-size: 35px;
+    border-bottom: 2px solid mintcream;
+    
+}
